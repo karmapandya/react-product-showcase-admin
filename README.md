@@ -47,4 +47,5 @@ object of product is
 ### Hard delete will delete from localStorage.
 
 
-### Things To Improve. Seperate code from dashboard to seperate componenets. Split as necessary.
+Things To Improve. 
+Dashboard view can be split into different components.
